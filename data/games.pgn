@@ -1,0 +1,11 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "You"]
+[Black "ChessML"]
+[Result "1-0"]
+
+1. d4 g6 2. e3 h6 3. Bd3 f6 4. Qg4 e5 5. Qxg6+ Ke7 6. dxe5 Bg7 7. Qxg7+ Ke8 8.
+Bg6# 1-0
+
